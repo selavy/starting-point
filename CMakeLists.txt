@@ -20,5 +20,5 @@ add_compile_options("--std=c++11")
 add_compile_options("-Wall")
 add_compile_options("-Werror")
 
-#add_subdirectory(src)
+add_subdirectory(src)
 add_subdirectory(tst)
